@@ -2,3 +2,5 @@
 *.lock
 .stack-work
 score.json
+node_modules/
+package*
